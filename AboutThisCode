@@ -2,3 +2,9 @@ This code is related to APA Automation
 
 Problem Statement : 
 A CSV File is present with multiple Questions and need to generate results from different LLMs in the GenAI Chat Portal and store that answers received, back to the CSV File
+
+Known Point : 
+Code Quality is not as per standard but the purpose is fullfilled
+
+Next Step : 
+UI and Functionality along with URL have change completely hence now the code would be written from scratch
